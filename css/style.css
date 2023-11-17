@@ -177,7 +177,7 @@ h6 {
 }
 
 .slider-title h2.pink-tit{color: #ee1d4f !important;}
-p.pink-tit{color: #1f4283 !important; }
+p.pink-tit{color: #107A95 !important; }
 
 .effect {
   width: 100%;
@@ -469,7 +469,7 @@ p.pink-tit{color: #1f4283 !important; }
 
 .section-title h2 span {
 	font-weight: 700;
-	color:#1f4283;
+	color:#107A95;
 }
 #services .section-title h2 span{color:#fff !important;}
 .border-line {
@@ -516,7 +516,7 @@ p.pink-tit{color: #1f4283 !important; }
 	margin: 15px auto 10px auto;
 }
 #clients{background:#f6f6f6 !important;}
-.spl-bg{padding:50px; background:#1f4283; margin:20px auto; width:80%; border-radius:20px;}
+.spl-bg{padding:50px; background:#107A95; margin:20px auto; width:80%; border-radius:20px;}
 .spl-bg p{color:#fff !important;}
 .cust-head{text-align:center !important; text-transform:inherit !important; font-style:italic !important; letter-spacing:0.6px !important; padding:0 35px; line-height:32px;}
 
@@ -873,7 +873,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	vertical-align: middle;
 }
 
-.team-item-description h4{color:#1f4283 !important; letter-spacing:0.6px !important;}
+.team-item-description h4{color:#107A95 !important; letter-spacing:0.6px !important;}
 
 .slider-title h2 {
 	color: #fff;
@@ -902,7 +902,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 }
 
 .slider-active .owl-nav div {
-	background: #1f4283;
+	background: #107A95;
 	font-size: 20px;
 	height: 40px;
 	line-height: 40px;
@@ -938,7 +938,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 }
 
 .slider-active .owl-dot {
-	background: #1f4283 none repeat scroll 0 0;
+	background: #107A95 none repeat scroll 0 0;
 	display: inline-block;
 	height: 15px;
 	margin: 0 2px;
@@ -1063,7 +1063,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	font-size: 36px;
 	line-height: 32px;
 	font-weight: 600;
-	color: #1f4283;
+	color: #107A95;
 	margin-bottom: 40px;
 	position: relative;
 	z-index: 1;
@@ -1076,7 +1076,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	left: 0;
 	bottom: 0;
 	width: 100px;
-	border-bottom: 2px solid #1f4283;
+	border-bottom: 2px solid #107A95;
 }
 
 .about-content h2 span {
@@ -1134,7 +1134,7 @@ a.btn-service {
 
 .special-single-content:hover,
 .item-open {
-	background-color: #1f4283;
+	background-color: #107A95;
 }
 
 .special-single-content:hover.special-single-content i,
@@ -2437,7 +2437,7 @@ h3.home-p{text-transform:inherit !important; line-height:1.6em !important;}
 /*-- Footer Area--*/
 
 #contact {
-	background:#1f4283;
+	background:#107A95;
 padding:110px 0 20px !important;
 }
  #contact p{color:#ccc; width:100% !important;}
