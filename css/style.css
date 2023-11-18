@@ -722,7 +722,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	background-color: #ee1d4f;
 }
 
-#staff{background:url(../images/bg-5.png) rgba(0,0,0,0.06);}
+#staff{background:rgba(0,0,0,0.06);}
 
 #services h2, #services p, #services li {color:#fff !important;}
 
